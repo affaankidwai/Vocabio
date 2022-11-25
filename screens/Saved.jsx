@@ -4,7 +4,18 @@ import React from "react";
 const Saved = () => {
   return (
     <View>
-      <Text>Hello broo</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
+      <Text>Lorem</Text>
     </View>
   );
 };

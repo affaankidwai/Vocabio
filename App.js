@@ -6,6 +6,7 @@ import {
   TouchableOpacity,
   View,
   ScrollView,
+  Button,
 } from "react-native";
 import Card from "./components/Card";
 import { NavigationContainer } from "@react-navigation/native";
@@ -27,7 +28,7 @@ export default function App() {
         <Stack.Screen
           name="Saved"
           component={Saved}
-          options={{ title: "Welcome back! 👋" }}
+          options={{ title: "Your saved words" }}
         />
       </Stack.Navigator>
     </NavigationContainer>
